@@ -1,0 +1,56 @@
+Uri: https://s3.fr-par.scw.cloud/typebot/public/typebots/clll1f2no0005la0fac17sm07/favIcon?v=1692635066466
+File Name: C:\Downloaded Web Sites\web.consulta.website\typebot\public\typebots\clll1f2no0005la0fac17sm07\favIcon
+Content Type: image/png
+
+Uri: https://web.consulta.website/b
+File Name: C:\Downloaded Web Sites\web.consulta.website\b.html
+Content Type: text/html
+
+Uri: https://web.consulta.website/_next/static/chunks/718-dc050ff60b166fb2.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\chunks\718-dc050ff60b166fb2.js
+Content Type: application/javascript
+
+Uri: https://web.consulta.website/_next/static/chunks/846-353199d8dc7ec74f.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\chunks\846-353199d8dc7ec74f.js
+Content Type: application/javascript
+
+Uri: https://web.consulta.website/_next/static/chunks/framework-2647c7e378e02044.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\chunks\framework-2647c7e378e02044.js
+Content Type: application/javascript
+
+Uri: https://web.consulta.website/_next/static/chunks/main-d4779c0fc55395e6.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\chunks\main-d4779c0fc55395e6.js
+Content Type: application/javascript
+
+Uri: https://web.consulta.website/_next/static/chunks/pages/[[...publicId]]-184a428fa95ff223.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\chunks\pages\[[...publicId]]-184a428fa95ff223.js
+Content Type: application/javascript
+
+Uri: https://web.consulta.website/_next/static/chunks/pages/_app-2620b1afbb741dd3.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\chunks\pages\_app-2620b1afbb741dd3.js
+Content Type: application/javascript
+
+Uri: https://web.consulta.website/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://web.consulta.website/_next/static/chunks/webpack-40b529c908976294.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\chunks\webpack-40b529c908976294.js
+Content Type: application/javascript
+
+Uri: https://web.consulta.website/_next/static/css/85a3fdb148fb7ccf.css
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\css\85a3fdb148fb7ccf.css
+Content Type: text/css
+
+Uri: https://web.consulta.website/_next/static/D3GQ4VvGGmcFmgSF6Tz5u/_buildManifest.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\D3GQ4VvGGmcFmgSF6Tz5u\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://web.consulta.website/_next/static/D3GQ4VvGGmcFmgSF6Tz5u/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\_next\static\D3GQ4VvGGmcFmgSF6Tz5u\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://web.consulta.website/__ENV.js
+File Name: C:\Downloaded Web Sites\web.consulta.website\__ENV.js
+Content Type: application/javascript
+

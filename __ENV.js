@@ -1,0 +1,1 @@
+window.__ENV = {"NEXT_PUBLIC_VIEWER_URL":"https://web.consulta.website"};
